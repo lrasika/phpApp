@@ -1,7 +1,10 @@
 <?php
 
-class TestClass extends UnitTest
+class TestClass
 {
+	public function SetUp() {
+	}
+	
 	public function testWork() {
 		
 	}
